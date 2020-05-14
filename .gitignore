@@ -1,0 +1,7 @@
+# the next line removes all folders
+*/*
+automate_online-materials
+dictionary.txt
+*.png
+*.jpg
+*.jpeg
