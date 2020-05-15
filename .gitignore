@@ -6,3 +6,4 @@ dictionary.txt
 *.jpg
 *.jpeg
 18_email.py
+credentials.json
