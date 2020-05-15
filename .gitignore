@@ -7,3 +7,4 @@ dictionary.txt
 *.jpeg
 18_email.py
 credentials.json
+token.json
